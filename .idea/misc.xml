@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/BersyteWeatherApp/app/src/main/res/layout/activity_main.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/BersyteWeatherApp/app/src/main/res/layout/activity_main2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/BersyteWeatherApp/app/src/main/res/layout/city_input.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/BersyteWeatherApp/app/src/main/res/layout/fragment_city.xml" value="0.1578125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/BersyteWeatherApp/app/src/main/res/layout/fragment_weather.xml" value="0.165625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/BersyteWeatherApp/app/src/main/res/layout/weather_fragment.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/other/BersyteWeatherApp/app/src/main/res/drawable/ic_white_back_arrow.xml" value="0.154" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/other/BersyteWeatherApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/other/BersyteWeatherApp/app/src/main/res/layout/fragment_city.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/other/BersyteWeatherApp/app/src/main/res/layout/weather_fragment.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/BersyteWeatherApp/app/src/main/res/drawable/background.xml" value="0.1075" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/BersyteWeatherApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

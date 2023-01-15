@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/cityFragment">
+
+    <fragment
+        android:id="@+id/cityFragment"
+        android:name="com.express.android.bersyteweatherapp.ui.fragments.CityFragment"
+        android:label="Enter City Name"
+        tools:layout="@layout/fragment_city">
+        <action
+            android:id="@+id/action_cityFragment_to_weatherFragment"
+            app:destination="@id/weatherFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/weatherFragment"
+        android:name="com.express.android.bersyteweatherapp.ui.fragments.WeatherFragment"
+        android:label="Weather for {cityName}"
+        tools:layout="@layout/weather_fragment">
+        <action
+            android:id="@+id/action_weatherFragment_to_cityFragment"
+            app:destination="@id/cityFragment" />
+        <argument
+            android:name="cityName"
+            app:argType="string" />
+    </fragment>
+</navigation>
